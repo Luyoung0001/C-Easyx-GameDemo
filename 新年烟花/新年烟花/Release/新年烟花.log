@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (新年烟花.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  正在生成代码
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  新年烟花.vcxproj -> D:\VS2015\微信公众号\新年烟花\Release\情人节.exe
+  新年烟花.vcxproj -> D:\VS2015\微信公众号\新年烟花\Release\情人节.pdb (Full PDB)

@@ -1,0 +1,12 @@
+﻿  Manage.cpp
+d:\微信公众号\typora\c++\淘气鸟\淘气鸟\manage.cpp(78): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+d:\微信公众号\typora\c++\淘气鸟\淘气鸟\manage.cpp(80): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  main.cpp
+  Block.cpp
+  Bird.cpp
+  Background.cpp
+  正在生成代码...
+  淘气鸟.vcxproj -> D:\微信公众号\Typora\C++\淘气鸟\Debug\淘气鸟.exe
+  淘气鸟.vcxproj -> D:\微信公众号\Typora\C++\淘气鸟\Debug\淘气鸟.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.cpp(17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  正在生成代码
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  图片转字符串.vcxproj -> D:\VS2015\微信公众号\图片转字符串\Release\图片转字符串.exe
+  图片转字符串.vcxproj -> D:\VS2015\微信公众号\图片转字符串\Release\图片转字符串.pdb (Full PDB)

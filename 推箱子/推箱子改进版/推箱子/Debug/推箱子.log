@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\vs2015\mfc\推箱子\推箱子\main.cpp(122): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+d:\vs2015\mfc\推箱子\推箱子\main.cpp(137): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  推箱子.vcxproj -> D:\VS2015\MFC\推箱子\Debug\推箱子.exe
+  推箱子.vcxproj -> D:\VS2015\MFC\推箱子\Debug\推箱子.pdb (Full PDB)

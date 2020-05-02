@@ -1,0 +1,12 @@
+﻿  main.cpp
+main.cpp(103): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+main.cpp(202): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  正在生成代码
+  2 of 20 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  飞机大战.vcxproj -> D:\微信公众号\项目\飞机大战\Release\飞机大战.exe
+  飞机大战.vcxproj -> D:\微信公众号\项目\飞机大战\Release\飞机大战.pdb (Full PDB)

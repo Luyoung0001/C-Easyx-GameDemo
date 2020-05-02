@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\微信公众号\项目\俄罗斯方块\俄罗斯方块\main.cpp(215): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+d:\微信公众号\项目\俄罗斯方块\俄罗斯方块\main.cpp(217): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+d:\微信公众号\项目\俄罗斯方块\俄罗斯方块\main.cpp(449): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  俄罗斯方块.vcxproj -> D:\微信公众号\项目\俄罗斯方块\Debug\俄罗斯方块.exe
+  俄罗斯方块.vcxproj -> D:\微信公众号\项目\俄罗斯方块\Debug\俄罗斯方块.pdb (Full PDB)

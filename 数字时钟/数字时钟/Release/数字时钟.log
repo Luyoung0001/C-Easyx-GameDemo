@@ -1,0 +1,18 @@
+﻿  main.cpp
+main.cpp(206): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(207): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(221): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(222): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(236): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(237): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(251): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(252): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(266): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(267): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(80): warning C4101: “nCenterY”: 未引用的局部变量
+main.cpp(80): warning C4101: “nCenterX”: 未引用的局部变量
+  正在生成代码
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  数字时钟.vcxproj -> D:\微信公众号\项目\数字时钟\Release\数字时钟.exe
+  数字时钟.vcxproj -> D:\微信公众号\项目\数字时钟\Release\数字时钟.pdb (Full PDB)

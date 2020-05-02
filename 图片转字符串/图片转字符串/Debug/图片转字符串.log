@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\vs2015\微信公众号\图片转字符串\图片转字符串\main.cpp(17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  图片转字符串.vcxproj -> D:\VS2015\微信公众号\图片转字符串\Debug\图片转字符串.exe
+  图片转字符串.vcxproj -> D:\VS2015\微信公众号\图片转字符串\Debug\图片转字符串.pdb (Full PDB)
